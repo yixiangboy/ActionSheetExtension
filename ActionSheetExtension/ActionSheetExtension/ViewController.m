@@ -56,11 +56,14 @@
     Item *item2 = [[Item alloc] init];
     item2.icon = @"journey_phone";
     item2.title = @"15195905777";
-    NSArray *listData = [NSArray arrayWithObjects:item1,item2, nil];
+    Item *item3 = [[Item alloc] init];
+    item3.icon = @"journey_phone";
+    item3.title = @"15195905777";
+    NSArray *listData = [NSArray arrayWithObjects:item1,item2,item3, nil];
     
     PicAndTextActionSheet *sheet = [[PicAndTextActionSheet alloc] initWithList:listData title:@"拨打电话"];
     sheet.delegate = self;
-    [sheet showInView:nil];
+    [sheet showInView:self];
     
 }
 

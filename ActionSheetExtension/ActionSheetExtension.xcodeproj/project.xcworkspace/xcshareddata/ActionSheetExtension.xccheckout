@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>86127503-7610-4B42-BCCB-4AA1B5464FD4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>ActionSheetExtension</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>2E49AC4E1152461C774964CAD9C0EBA18DAB8E09</key>
 		<string>https://github.com/yixiangboy/ActionSheetExtension</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ActionSheetExtension/ActionSheetExtension.xcodeproj/project.xcworkspace</string>
+	<string>ActionSheetExtension/ActionSheetExtension.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2E49AC4E1152461C774964CAD9C0EBA18DAB8E09</key>
